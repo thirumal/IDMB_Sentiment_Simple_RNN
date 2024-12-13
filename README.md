@@ -40,7 +40,7 @@ The model uses the following architecture:
 - **Dense Output Layer**: Outputs a single value (positive or negative sentiment) with a sigmoid activation function.
 
 
-### Stramlit App Web UI APP:
+### Streamlit App Web UI APP:
 ### Features
 - **Input Movie Review**: Users can input their own movie review text.
 - **Prediction Output**: The app displays whether the review is positive or negative, along with the confidence score.
