@@ -67,6 +67,5 @@ Open the provided URL () in a web browser.
 
 
 ## Future Enhancements
-- Integrate a more advanced model (e.g., LSTM or Transformer-based models like BERT).
+- Integration  a more advanced model (e.g., LSTM or Transformer-based models like BERT).
 - Deploy the app using cloud services such as AWS, Heroku, or Streamlit Community Cloud.
-- Expand the datase
